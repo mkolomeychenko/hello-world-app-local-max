@@ -1,6 +1,5 @@
 {
   "release": { "version": "v1.0.0", "name": "my first release" },
-  "slug": "supervisely-ecosystem/hello-world-app",
   "main_script": "src/main.py",
   "headless": true,
   "name": "Hello World!",
